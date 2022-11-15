@@ -40,6 +40,7 @@ The format which we shall be using is:
 
 
 - ### **K**
+    [K0r3s](https://github.com/0xAckerMan)
 
 
 - ### **L**
