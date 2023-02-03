@@ -19,6 +19,7 @@ The format which we shall be using is:
 
 
 - ### **D**
+    [d-captainkenya](https://github.com/d-captainkenya)
 
 
 - ### **E**
