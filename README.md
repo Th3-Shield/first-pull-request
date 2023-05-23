@@ -52,6 +52,8 @@ The format which we shall be using is:
 
 - ### **M**
     [MichaelSasi](https://github.com/MichaelSasi)
+    
+    [Mike Oduor](https://github.com/ohmed/)
 
 - ### **N**
 
