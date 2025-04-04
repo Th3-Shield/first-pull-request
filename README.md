@@ -1,7 +1,9 @@
 > **Note** **This repository is for practice only.**
 
 ### Follow the steps on "[How we shall be contributing to projects and how we shall avoid merge conflicts](https://github.com/Th3-Shield/.github-private/blob/main/profile/README.md#how-we-shall-be-contributing-to-projects-and-how-we-shall-avoid-merge-conflicts)" to **add your name to the alphabetical list on README file**
+
 The format which we shall be using is:
+
 ```
 - [Full Name](https://github.com/your-username)
 ```
@@ -11,87 +13,71 @@ The format which we shall be using is:
 
 - ### **A**
 
-
 - ### **B**
-
 
 - ### **C**
 
-
 - ### **D**
-    [d-captainkenya](https://github.com/d-captainkenya)
 
+  [d-captainkenya](https://github.com/d-captainkenya)
 
 - ### **E**
-	[Error 404](https://github.com/justkelvin)
 
+  [Error 404](https://github.com/justkelvin)
 
 - ### **F**
 
-
 - ### **G**
-	[GrandRick](https://github.com/grand-rick001)
 
+  [GrandRick](https://github.com/grand-rick001)
 
 - ### **H**
 
-
 - ### **I**
-    [Itsfoss](https://github.com/Itsfoss0)
 
+  [Itsfoss](https://github.com/Itsfoss0)
 
 - ### **J**
 
-
 - ### **K**
-    [K0r3s](https://github.com/0xAckerMan)
 
+  [K0r3s](https://github.com/0xAckerMan)
 
 - ### **L**
 
-
 - ### **M**
-    [MichaelSasi](https://github.com/MichaelSasi)
-    
-    [Mike Oduor](https://github.com/ohmed/)
+
+  [MichaelSasi](https://github.com/MichaelSasi)
+
+  [Mike Oduor](https://github.com/ohmed/)
 
 - ### **N**
 
-
 - ### **O**
-
 
 - ### **P**
 
-
 - ### **Q**
-
 
 - ### **R**
 
-
 - ### **S**
-    [skeeper](https://github.com/skeeperloyaltie)
 
+  [skeeper](https://github.com/skeeperloyaltie)
 
 - ### **T**
 
-
 - ### **U**
-
 
 - ### **V**
 
-
 - ### **W**
-
 
 - ### **X**
 
-
 - ### **Y**
-    [yrncollo](https://github.com/yrncollo)
 
+  [yrncollo](https://github.com/yrncollo)
+  [yosuke](https://github.com/dragonlancer0711)
 
 - ### **Z**
-
